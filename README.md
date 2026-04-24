@@ -23,7 +23,7 @@ Currently exploring how to make AI agents more reliable, observable, and useful 
 - 🛡️ **[Agent_Guard](https://github.com/routsom/Agent_Guard)** — guardrails and monitoring for AI agents in production
 - 🔍 **[valyric_ai_pentest](https://github.com/routsom/valyric_ai_pentest)** — automated testing platform for AI-powered applications
 - 🔒 **[claw-guard](https://github.com/routsom/claw-guard)** — Claude agent safety layer
-- 🧠 **[opencausality](https://github.com/opencausality)** — open source tools for causal reasoning in LLMs
+- 🧠 **[opencausality](https://github.com/opencausality)** — open source tools for causal reasoning - trying to achieve what LLMs can't do
 
 ---
 
