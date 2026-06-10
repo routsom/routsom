@@ -39,6 +39,7 @@ Currently exploring how to make AI agents more reliable, observable, and useful 
 
 ### Research
 
+- 📊 **[agent-review-lab](https://github.com/routsom/agent-review-lab)** — Saga-pattern multi-agent harness vs naive LangGraph pipeline, benchmarked on real PRs — pass^k, reliability decay curves, meltdown onset point, live comparison dashboard
 - 🧠 **[opencausality](https://github.com/opencausality)** — Open source tools for causal reasoning — trying to achieve what LLMs can't do
 
 ---
