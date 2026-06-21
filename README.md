@@ -19,7 +19,7 @@ Currently exploring how to make AI agents more reliable, observable, and useful 
 ## Projects
 
 ### Agent Infrastructure
-- ⚡ **[harness-compose](https://github.com/routsom/harness-composer)** — Dynamically compose the right guardrails, tools, context strategy, and verification checks for any task — automatically, from parts that have already been built and trusted.
+- ⚡ **[harness-composer](https://github.com/routsom/harness-composer)** — Dynamically compose the right guardrails, tools, context strategy, and verification checks for any task — automatically, from parts that have already been built and trusted.
 - 💰 **[agent-wallet](https://github.com/routsom/agent-wallet)** — Drop-in middleware for hard spending limits, token budgets, and kill switches on AI agents — text "STOP" from Telegram and any agent pauses instantly
 - 📼 **[agent-replay](https://github.com/routsom/agent-replay)** — Local-first agent observability: one decorator, one SQLite file, full tracing with cost tracking — no server, no cloud account
 - 🤖 **[autonomous_dev_team](https://github.com/routsom/autonomous_dev_team)** — Multi-agent system that writes and ships code autonomously
