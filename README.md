@@ -34,6 +34,7 @@ Currently exploring how to make AI agents more reliable, observable, and useful 
 
 ### Developer Tools
 
+- 🔁 **[loomc](https://github.com/routsom/loomc)** — Lightweight agentic loop control for Claude — token budgets, convergence detection, checkpointing, and backtracking in a single `pip install`
 - 📝 **[prompt-git](https://github.com/routsom/prompt-git)** — Git for your prompts: commit, diff, branch, merge, and rollback LLM prompts with semantic diffs that describe what the *meaning* changed
 - 🧪 **[auto-heal-uitests](https://github.com/routsom/auto-heal-uitests)** — UI tests that self-repair when the interface changes
 
