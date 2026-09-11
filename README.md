@@ -30,6 +30,7 @@ Currently exploring how to make AI agents more **reliable, observable, and usefu
 
 ### Security
 
+- 🏰 **[portcullis](https://github.com/routsom/portcullis)** - The MCP gateway you can put in front of untrusted tools: sandboxed execution, mandatory auth, RBAC/ABAC policy, hash-chained audit, and OpenAPI translation, in one Apache-2.0 Rust binary. Never executes tool logic in its own process.
 - 🗡️ **[valyrian](https://github.com/routsom/valyrian)** - Autonomous penetration testing for AI-powered applications: 77 attack templates, 248 payloads, 10 specialized agents.
 - 🔍 **[skill-scan](https://github.com/routsom/skill-scan)** - Security scanner for OpenClaw skills and MCP servers. Detects prompt injection, data exfiltration, and supply chain attacks in under 10 seconds.
 - 🛡️ **[Agent_Guard](https://github.com/routsom/Agent_Guard)** - Human-in-the-loop checkpoint system and monitoring for AI coding agents in production.
