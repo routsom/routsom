@@ -45,6 +45,7 @@ Currently exploring how to make AI agents more **reliable, observable, and usefu
 
 ### Research
 
+- 📐 **[causeval](https://github.com/routsom/causeval)** - Statistically rigorous, causal evaluation for LLM apps on top of DeepEval: confidence intervals, causal interventions (RAG grounding, perturbations, agent attribution), and judge validity (bias audits, calibration, prediction-powered inference).
 - 🔬 **[ablate](https://github.com/routsom/ablate)** - Systematically removes or masks each context span (retrieved chunks, tool outputs, memory, prompt sections) and reruns the LLM to measure which one flipped the answer. A blame heatmap over your prompt: Shapley values for context windows.
 - 📊 **[agent-review-lab](https://github.com/routsom/agent-review-lab)** - Saga-pattern multi-agent harness vs a naive LangGraph pipeline, benchmarked on real PRs: pass^k, reliability decay curves, meltdown onset point, live comparison dashboard.
 - 🧠 **[opencausality](https://github.com/opencausality)** - Open-source tools for causal reasoning, trying to achieve what LLMs can't do.
@@ -65,6 +66,7 @@ Currently exploring how to make AI agents more **reliable, observable, and usefu
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
